@@ -1,5 +1,5 @@
 {
-	"name": "Kyle",
+	"name": "Kyle Lexington",
 	"location": "Palo Alto, CA",
 	"title": "We need more dog parks",
 	"description": "I am the proud owner of a 2-year old Golden Retriver, but it has been so frustrating trying to find places to take him for walks!  I wish there were more dog parks where he can get some exercise and socialize with other dogs in the area.",
@@ -8,4 +8,84 @@
 	"comments": "3",
 	"likes": "15",
 	"isEndorsed": false,
+	"timePosted": 2022-02-28T18:25:43.511Z,
+}
+
+{
+	"name": "Jackson Smith",
+	"location": "Palo Alto, CA",
+	"title": "Bikers on Sidewalks?",
+	"description": "I was walking with my family last weekend on California Avenue and we were all on the sidewalk. But then, out of nowhere, this bike comes hurling at us, almost hitting my kid!! There are bike lanes for a reason! Why are you using the sidewalks? We need the city to ban bikes on sidewalks immediately for the safety of our children!",
+	"image": null,	
+	"profile": "./assets/profiles/jacksonSmith.jpg",
+	"comments": "3",
+	"likes": "7",
+	"isEndorsed": false,
+	"timePosted": 2022-02-16T10:16:41.511Z,
+}
+
+{
+	"name": "Samuel James",
+	"location": "Palo Alto, CA",
+	"title": "Lack of Public Transit Subsidies",
+	"description": "Gas has been getting expensive recently, so I've looked into some different forms of transportation, but they're all so expensive! How do you expect people to get arround the Bay Area for this kind of price? That traffic is already horrible but this just adds insult to injury! We need to subsidize the cost of public transit now!",
+	"image": "./assets/images/caltrainTicket.jpg",	
+	"profile": "./assets/profiles/samuelJames.jpg",
+	"comments": "8",
+	"likes": "108",
+	"isEndorsed": true,
+	"timePosted": 2022-01-28T15:45:41.511Z,
+}
+
+{
+	"name": "Patricia Humphrey",
+	"location": "Stanford, CA",
+	"title": "Lack of Reading Materials in Schools",
+	"description": "I’m a teacher at Stanford Public Scools and I’ve been trying to teach the Kindergarten classes how to read, but there just aren’t enough books for all the children. I wish we could get more soon!",
+	"image": "./assets/images/boxOfBooks.jpg",	
+	"profile": "./assets/profiles/patriciaHumphrey.jpg",
+	"comments": "2",
+	"likes": "57",
+	"isEndorsed": true,
+	"timePosted": 2022-02-13T08:28:43.511Z,
+}
+
+{
+	"name": "Matthew Liu",
+	"location": "Stanford, CA",
+	"title": "Broken Park Bench at Frenchman’s Park",
+	"description": "I was taking a walk at Frenchman’s Park with my friend and we ended up going on the trail that leads up to our favorite bench by the bridge; however, once we got there, we saw that there was splintered wood everywhere! This bench needs to be fixed!",
+	"image": "./assets/images/parkBench.jpg",	
+	"profile": "./assets/profiles/matthewLiu.jpg",
+	"comments": "0",
+	"likes": "2",
+	"isEndorsed": false,
+	"timePosted": 2022-02-27T09:27:43.511Z,
+}
+
+{
+	"name": "Amy Losartan",
+	"location": "Stanford, CA",
+	"title": "Pothole on Panama Street",
+	"description": "I was biking the other day and I came onto Panama Street. About twenty seconds after I turned, I hit a pot hole and flew off! Luckily, I was wearing my helmet, but I ruined my rim. This needs to be fixed before someone else gets hurt!",
+	"image": "./assets/images/potholes.jpg",	
+	"profile": "./assets/profiles/amyLosartan.jpg",
+	"comments": "2",
+	"likes": "23",
+	"isEndorsed": false,
+	"timePosted": 2022-02-22T17:49:43.511Z,
+}
+
+
+{
+	"name": "Wanye Gorgalo",
+	"location": "Palo Alto, CA",
+	"title": "No Public WiFi Access?",
+	"description": "I was waiting for the bus this morning before work and I wanted to get some documents filled out for my taxes this year, but I had no data on my phone, so I decided to pull out my laptop and see if there was any public WiFi. To my surprise, there wasn't! in the heart of silicon valley? At this point, it should be expected to have public WiFi given how much so many people depend on it. The city officials should work to provide internet for all of Palo Alto!",
+	"image": null,	
+	"profile": "./assets/profiles/wanyeGorgalo.jpg",
+	"comments": "3",
+	"likes": "34",
+	"isEndorsed": false,
+	"timePosted": 2022-02-26T11:46:43.511Z,
 }
